@@ -32,6 +32,7 @@ ReactOnRails.configure do |config|
   # SERVER RENDERING OPTIONS
   ################################################################################
   # This is the file used for server rendering of React when using `(prerender: true)`
+  # config.same_bundle_for_client_and_server = true
   # If you are never using server rendering, you should set this to "".
   # Note, there is only one server bundle, unlike JavaScript where you want to minimize the size
   # of the JS sent to the client. For the server rendering, React on Rails creates a pool of
