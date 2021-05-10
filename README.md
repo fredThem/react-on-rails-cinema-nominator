@@ -17,6 +17,11 @@ Things you may want to cover:
 
 * How to run the test suite
 
+To run with the webpack-dev-server:
+```
+foreman start -f Procfile.dev-hmr
+```
+
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
