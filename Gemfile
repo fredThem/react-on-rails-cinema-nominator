@@ -16,6 +16,8 @@ gem 'jbuilder', '~> 2.7'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'react_on_rails', '12.0.4'         # prefer exact gem version to match npm version
+gem 'sprockets-rails', :require => 'sprockets/railtie'
+
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'

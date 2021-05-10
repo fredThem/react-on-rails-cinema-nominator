@@ -216,6 +216,7 @@ DEPENDENCIES
   react_on_rails (= 12.0.4)
   selenium-webdriver
   spring
+  sprockets-rails
   tzinfo-data
   web-console (>= 4.1.0)
   webdrivers
